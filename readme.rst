@@ -4,7 +4,7 @@ pong.bas
 A pong-like game written in QuickBASIC.
 
 +--------------------------------------------+-------------------------------------------+
-| .. image:: http://lewk.org/img/pong0.png   | .. image:: http://lewk.org/img/pong1.png  |
+| .. image:: http://lewk.org/img/pong4.png   | .. image:: http://lewk.org/img/pong5.png  |
 +--------------------------------------------+-------------------------------------------+
 | .. image:: http://lewk.org/img/pong2.png   | .. image:: http://lewk.org/img/pong3.png  |
 +--------------------------------------------+-------------------------------------------+
