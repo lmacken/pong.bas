@@ -29,7 +29,7 @@ Windows
 Linux
 ~~~~~
 
- * Install necessary dependencies: yum install SDL_{ttf,mixer,net,image}-devel
+ * Install necessary dependencies: yum install SDL_{ttf,mixer,net,image}-devel gcc-c++
  * Download `QB64 <http://qb64.net>`_
  * Extract the tarball and run ./setup.sh
  * Open ``pong.bas``
